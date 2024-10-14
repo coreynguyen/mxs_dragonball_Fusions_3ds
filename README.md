@@ -3,6 +3,8 @@
 
 ## Overview
 
+![Preview Image](assets/preview.jpg)
+
 This MaxScript allows you to import 3D models from **Dragon Ball Fusions** for the Nintendo 3DS into Autodesk 3ds Max. The script reads `.jmdl` files, reconstructs the mesh geometry, and builds the skeleton hierarchy within 3ds Max.
 
 **Note:** The imported mesh is not skinned or influenced by the skeleton, and material and texture assignments are not automatically applied.
